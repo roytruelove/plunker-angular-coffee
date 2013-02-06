@@ -1,6 +1,6 @@
-app = angular.module('plunker', [])
+app = angular.module('angularjs-starter', [])
 
 app.controller 'MainCtrl', ($scope) ->
   $scope.name = 'World'
 
-angular.bootstrap(document, ['plunker'])
+angular.bootstrap(document, ['angularjs-starter'])

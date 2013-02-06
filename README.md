@@ -1,6 +1,6 @@
 ## Seed project for Angular.js + Coffeescript plunkers
 
-Exactly matches an Angular.js + coffeescript starter project, so you can write your plunker locally and later cut and paste it into [Plunker](plnkr.co).
+Essentially allows you to write an angularjs + coffeescript [Plunker](plnkr.co) locally, and then cut and paste it when you're ready.
 
 ### Status
 Ready for use!
